@@ -1,0 +1,249 @@
+{
+  "ongoing": [
+    {
+      "id": "bfi29mx",
+      "title": "Frieren: Путь в загробье",
+      "sub": "Сезон 1 • Эп. 16",
+      "image": "data:image/svg+xml;utf8,%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'900'%3E%20%20%20%20%20%20%20%20%3Cdefs%3E%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'0'%20y2%3D'1'%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0'%20stop-color%3D'%23220315'%2F%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'1'%20stop-color%3D'%23b80241'%2F%3E%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%20%20%20%20%20%20%20%20%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'url(%23g)'%2F%3E%20%20%20%20%20%20%20%20%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%20font-family%3D'Montserrat%2C%20Arial'%20font-size%3D'42'%3EDUBCORP%3C%2Ftext%3E%20%20%20%20%20%20%3C%2Fsvg%3E",
+      "badge": "EP 16",
+      "rating": "8.9",
+      "link": "",
+      "details": {
+        "genres": "Фэнтези, Приключения",
+        "year": 2023,
+        "description": "Эльф-маг Фрирен отправляется в путешествие спустя века после победы над Королём демонов.",
+        "seasons": [
+          {
+            "name": "Сезон 1",
+            "episodes": [
+              {
+                "title": "Эпизод 1",
+                "src": ""
+              },
+              {
+                "title": "Эпизод 2",
+                "src": ""
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "73570in",
+      "title": "Jujutsu Kaisen",
+      "sub": "Сезон 2",
+      "image": "data:image/svg+xml;utf8,%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'900'%3E%20%20%20%20%20%20%20%20%3Cdefs%3E%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'0'%20y2%3D'1'%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0'%20stop-color%3D'%23220315'%2F%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'1'%20stop-color%3D'%23b80241'%2F%3E%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%20%20%20%20%20%20%20%20%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'url(%23g)'%2F%3E%20%20%20%20%20%20%20%20%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%20font-family%3D'Montserrat%2C%20Arial'%20font-size%3D'42'%3EDUBCORP%3C%2Ftext%3E%20%20%20%20%20%20%3C%2Fsvg%3E",
+      "badge": "NEW",
+      "rating": "9.0",
+      "link": ""
+    },
+    {
+      "id": "y7nzoa9",
+      "title": "Solo Leveling",
+      "sub": "Сезон 1",
+      "image": "data:image/svg+xml;utf8,%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'900'%3E%20%20%20%20%20%20%20%20%3Cdefs%3E%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'0'%20y2%3D'1'%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0'%20stop-color%3D'%23220315'%2F%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'1'%20stop-color%3D'%23b80241'%2F%3E%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%20%20%20%20%20%20%20%20%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'url(%23g)'%2F%3E%20%20%20%20%20%20%20%20%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%20font-family%3D'Montserrat%2C%20Arial'%20font-size%3D'42'%3EDUBCORP%3C%2Ftext%3E%20%20%20%20%20%20%3C%2Fsvg%3E",
+      "badge": "HOT",
+      "rating": "8.3",
+      "link": ""
+    },
+    {
+      "id": "8ieyw7r",
+      "title": "One Piece",
+      "sub": "Онгоинг",
+      "image": "data:image/svg+xml;utf8,%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'900'%3E%20%20%20%20%20%20%20%20%3Cdefs%3E%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'0'%20y2%3D'1'%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0'%20stop-color%3D'%23220315'%2F%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'1'%20stop-color%3D'%23b80241'%2F%3E%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%20%20%20%20%20%20%20%20%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'url(%23g)'%2F%3E%20%20%20%20%20%20%20%20%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%20font-family%3D'Montserrat%2C%20Arial'%20font-size%3D'42'%3EDUBCORP%3C%2Ftext%3E%20%20%20%20%20%20%3C%2Fsvg%3E",
+      "badge": "EP 1100+",
+      "rating": "9.1",
+      "link": ""
+    },
+    {
+      "id": "f98trwn",
+      "title": "Konosuba S3",
+      "sub": "Сезон 3",
+      "image": "data:image/svg+xml;utf8,%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'900'%3E%20%20%20%20%20%20%20%20%3Cdefs%3E%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'0'%20y2%3D'1'%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0'%20stop-color%3D'%23220315'%2F%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'1'%20stop-color%3D'%23b80241'%2F%3E%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%20%20%20%20%20%20%20%20%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'url(%23g)'%2F%3E%20%20%20%20%20%20%20%20%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%20font-family%3D'Montserrat%2C%20Arial'%20font-size%3D'42'%3EDUBCORP%3C%2Ftext%3E%20%20%20%20%20%20%3C%2Fsvg%3E",
+      "badge": "EP 5",
+      "rating": "7.9",
+      "link": ""
+    },
+    {
+      "id": "tl1y4dx",
+      "title": "Kaiju No.8",
+      "sub": "Сезон 1",
+      "image": "data:image/svg+xml;utf8,%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'900'%3E%20%20%20%20%20%20%20%20%3Cdefs%3E%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'0'%20y2%3D'1'%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0'%20stop-color%3D'%23220315'%2F%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'1'%20stop-color%3D'%23b80241'%2F%3E%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%20%20%20%20%20%20%20%20%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'url(%23g)'%2F%3E%20%20%20%20%20%20%20%20%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%20font-family%3D'Montserrat%2C%20Arial'%20font-size%3D'42'%3EDUBCORP%3C%2Ftext%3E%20%20%20%20%20%20%3C%2Fsvg%3E",
+      "badge": "EP 10",
+      "rating": "8.0",
+      "link": ""
+    },
+    {
+      "id": "4nt0t7n",
+      "title": "Oshi no Ko",
+      "sub": "Сезон 1",
+      "image": "data:image/svg+xml;utf8,%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'900'%3E%20%20%20%20%20%20%20%20%3Cdefs%3E%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'0'%20y2%3D'1'%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0'%20stop-color%3D'%23220315'%2F%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'1'%20stop-color%3D'%23b80241'%2F%3E%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%20%20%20%20%20%20%20%20%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'url(%23g)'%2F%3E%20%20%20%20%20%20%20%20%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%20font-family%3D'Montserrat%2C%20Arial'%20font-size%3D'42'%3EDUBCORP%3C%2Ftext%3E%20%20%20%20%20%20%3C%2Fsvg%3E",
+      "badge": "EP 3",
+      "rating": "8.1",
+      "link": ""
+    },
+    {
+      "id": "e0x6yzw",
+      "title": "Mashle S2",
+      "sub": "Сезон 2",
+      "image": "data:image/svg+xml;utf8,%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'900'%3E%20%20%20%20%20%20%20%20%3Cdefs%3E%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'0'%20y2%3D'1'%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0'%20stop-color%3D'%23220315'%2F%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'1'%20stop-color%3D'%23b80241'%2F%3E%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%20%20%20%20%20%20%20%20%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'url(%23g)'%2F%3E%20%20%20%20%20%20%20%20%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%20font-family%3D'Montserrat%2C%20Arial'%20font-size%3D'42'%3EDUBCORP%3C%2Ftext%3E%20%20%20%20%20%20%3C%2Fsvg%3E",
+      "badge": "EP 7",
+      "rating": "7.6",
+      "link": ""
+    }
+  ],
+  "popular": [
+    {
+      "id": "gkc3q3b",
+      "title": "Attack on Titan",
+      "sub": "Все сезоны",
+      "image": "data:image/svg+xml;utf8,%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'900'%3E%20%20%20%20%20%20%20%20%3Cdefs%3E%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'0'%20y2%3D'1'%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0'%20stop-color%3D'%23220315'%2F%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'1'%20stop-color%3D'%23b80241'%2F%3E%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%20%20%20%20%20%20%20%20%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'url(%23g)'%2F%3E%20%20%20%20%20%20%20%20%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%20font-family%3D'Montserrat%2C%20Arial'%20font-size%3D'42'%3EDUBCORP%3C%2Ftext%3E%20%20%20%20%20%20%3C%2Fsvg%3E",
+      "badge": "TOP",
+      "rating": "9.1",
+      "link": "",
+      "details": {
+        "genres": "Экшен, Драма",
+        "year": 2013,
+        "description": "Человечество сражается с титанами за выживание.",
+        "seasons": [
+          {
+            "name": "Сезон 1",
+            "episodes": [
+              {
+                "title": "Эп.1",
+                "src": ""
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "bdmjtfr",
+      "title": "Demon Slayer",
+      "sub": "Mugen Train + S3",
+      "image": "data:image/svg+xml;utf8,%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'900'%3E%20%20%20%20%20%20%20%20%3Cdefs%3E%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'0'%20y2%3D'1'%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0'%20stop-color%3D'%23220315'%2F%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'1'%20stop-color%3D'%23b80241'%2F%3E%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%20%20%20%20%20%20%20%20%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'url(%23g)'%2F%3E%20%20%20%20%20%20%20%20%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%20font-family%3D'Montserrat%2C%20Arial'%20font-size%3D'42'%3EDUBCORP%3C%2Ftext%3E%20%20%20%20%20%20%3C%2Fsvg%3E",
+      "badge": "🔥",
+      "rating": "8.5",
+      "link": ""
+    },
+    {
+      "id": "0hvdr4x",
+      "title": "Naruto Shippuden",
+      "sub": "500 эп.",
+      "image": "data:image/svg+xml;utf8,%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'900'%3E%20%20%20%20%20%20%20%20%3Cdefs%3E%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'0'%20y2%3D'1'%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0'%20stop-color%3D'%23220315'%2F%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'1'%20stop-color%3D'%23b80241'%2F%3E%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%20%20%20%20%20%20%20%20%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'url(%23g)'%2F%3E%20%20%20%20%20%20%20%20%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%20font-family%3D'Montserrat%2C%20Arial'%20font-size%3D'42'%3EDUBCORP%3C%2Ftext%3E%20%20%20%20%20%20%3C%2Fsvg%3E",
+      "badge": "CLASSIC",
+      "rating": "8.2",
+      "link": ""
+    },
+    {
+      "id": "qwdbofg",
+      "title": "Chainsaw Man",
+      "sub": "Сезон 1",
+      "image": "data:image/svg+xml;utf8,%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'900'%3E%20%20%20%20%20%20%20%20%3Cdefs%3E%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'0'%20y2%3D'1'%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0'%20stop-color%3D'%23220315'%2F%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'1'%20stop-color%3D'%23b80241'%2F%3E%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%20%20%20%20%20%20%20%20%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'url(%23g)'%2F%3E%20%20%20%20%20%20%20%20%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%20font-family%3D'Montserrat%2C%20Arial'%20font-size%3D'42'%3EDUBCORP%3C%2Ftext%3E%20%20%20%20%20%20%3C%2Fsvg%3E",
+      "badge": "TREND",
+      "rating": "8.4",
+      "link": ""
+    },
+    {
+      "id": "oiherkm",
+      "title": "Spy x Family",
+      "sub": "Сезон 2",
+      "image": "data:image/svg+xml;utf8,%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'900'%3E%20%20%20%20%20%20%20%20%3Cdefs%3E%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'0'%20y2%3D'1'%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0'%20stop-color%3D'%23220315'%2F%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'1'%20stop-color%3D'%23b80241'%2F%3E%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%20%20%20%20%20%20%20%20%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'url(%23g)'%2F%3E%20%20%20%20%20%20%20%20%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%20font-family%3D'Montserrat%2C%20Arial'%20font-size%3D'42'%3EDUBCORP%3C%2Ftext%3E%20%20%20%20%20%20%3C%2Fsvg%3E",
+      "badge": "FAMILY",
+      "rating": "8.3",
+      "link": ""
+    },
+    {
+      "id": "utvgw4n",
+      "title": "My Hero Academia",
+      "sub": "S1-6",
+      "image": "data:image/svg+xml;utf8,%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'900'%3E%20%20%20%20%20%20%20%20%3Cdefs%3E%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'0'%20y2%3D'1'%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0'%20stop-color%3D'%23220315'%2F%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'1'%20stop-color%3D'%23b80241'%2F%3E%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%20%20%20%20%20%20%20%20%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'url(%23g)'%2F%3E%20%20%20%20%20%20%20%20%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%20font-family%3D'Montserrat%2C%20Arial'%20font-size%3D'42'%3EDUBCORP%3C%2Ftext%3E%20%20%20%20%20%20%3C%2Fsvg%3E",
+      "badge": "TOP",
+      "rating": "8.0",
+      "link": ""
+    },
+    {
+      "id": "b1mgv5e",
+      "title": "Bleach: TYBW",
+      "sub": "Сезон 2",
+      "image": "data:image/svg+xml;utf8,%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'900'%3E%20%20%20%20%20%20%20%20%3Cdefs%3E%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'0'%20y2%3D'1'%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0'%20stop-color%3D'%23220315'%2F%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'1'%20stop-color%3D'%23b80241'%2F%3E%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%20%20%20%20%20%20%20%20%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'url(%23g)'%2F%3E%20%20%20%20%20%20%20%20%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%20font-family%3D'Montserrat%2C%20Arial'%20font-size%3D'42'%3EDUBCORP%3C%2Ftext%3E%20%20%20%20%20%20%3C%2Fsvg%3E",
+      "badge": "NEW",
+      "rating": "8.6",
+      "link": ""
+    }
+  ],
+  "movies": [
+    {
+      "id": "y6fkfs0",
+      "title": "Your Name",
+      "sub": "2016 • 1ч 52м",
+      "image": "data:image/svg+xml;utf8,%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'900'%3E%20%20%20%20%20%20%20%20%3Cdefs%3E%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'0'%20y2%3D'1'%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0'%20stop-color%3D'%23220315'%2F%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'1'%20stop-color%3D'%23b80241'%2F%3E%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%20%20%20%20%20%20%20%20%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'url(%23g)'%2F%3E%20%20%20%20%20%20%20%20%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%20font-family%3D'Montserrat%2C%20Arial'%20font-size%3D'42'%3EDUBCORP%3C%2Ftext%3E%20%20%20%20%20%20%3C%2Fsvg%3E",
+      "badge": "MOVIE",
+      "rating": "9.0",
+      "link": "",
+      "details": {
+        "genres": "Драма, Романтика",
+        "year": 2016,
+        "description": "История о связи двух незнакомцев через время и пространство.",
+        "seasons": [
+          {
+            "name": "Фильм",
+            "episodes": [
+              {
+                "title": "Your Name",
+                "src": ""
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "dd8qmfn",
+      "title": "Suzume",
+      "sub": "2022",
+      "image": "data:image/svg+xml;utf8,%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'900'%3E%20%20%20%20%20%20%20%20%3Cdefs%3E%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'0'%20y2%3D'1'%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0'%20stop-color%3D'%23220315'%2F%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'1'%20stop-color%3D'%23b80241'%2F%3E%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%20%20%20%20%20%20%20%20%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'url(%23g)'%2F%3E%20%20%20%20%20%20%20%20%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%20font-family%3D'Montserrat%2C%20Arial'%20font-size%3D'42'%3EDUBCORP%3C%2Ftext%3E%20%20%20%20%20%20%3C%2Fsvg%3E",
+      "badge": "MOVIE",
+      "rating": "8.0",
+      "link": ""
+    },
+    {
+      "id": "6d4g0md",
+      "title": "A Silent Voice",
+      "sub": "2016",
+      "image": "data:image/svg+xml;utf8,%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'900'%3E%20%20%20%20%20%20%20%20%3Cdefs%3E%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'0'%20y2%3D'1'%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0'%20stop-color%3D'%23220315'%2F%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'1'%20stop-color%3D'%23b80241'%2F%3E%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%20%20%20%20%20%20%20%20%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'url(%23g)'%2F%3E%20%20%20%20%20%20%20%20%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%20font-family%3D'Montserrat%2C%20Arial'%20font-size%3D'42'%3EDUBCORP%3C%2Ftext%3E%20%20%20%20%20%20%3C%2Fsvg%3E",
+      "badge": "MOVIE",
+      "rating": "8.9",
+      "link": ""
+    },
+    {
+      "id": "ovgnh3s",
+      "title": "Princess Mononoke",
+      "sub": "1997",
+      "image": "data:image/svg+xml;utf8,%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'900'%3E%20%20%20%20%20%20%20%20%3Cdefs%3E%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'0'%20y2%3D'1'%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0'%20stop-color%3D'%23220315'%2F%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'1'%20stop-color%3D'%23b80241'%2F%3E%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%20%20%20%20%20%20%20%20%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'url(%23g)'%2F%3E%20%20%20%20%20%20%20%20%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%20font-family%3D'Montserrat%2C%20Arial'%20font-size%3D'42'%3EDUBCORP%3C%2Ftext%3E%20%20%20%20%20%20%3C%2Fsvg%3E",
+      "badge": "MOVIE",
+      "rating": "9.1",
+      "link": ""
+    },
+    {
+      "id": "a1zians",
+      "title": "Spirited Away",
+      "sub": "2001",
+      "image": "data:image/svg+xml;utf8,%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'900'%3E%20%20%20%20%20%20%20%20%3Cdefs%3E%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'0'%20y2%3D'1'%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0'%20stop-color%3D'%23220315'%2F%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'1'%20stop-color%3D'%23b80241'%2F%3E%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%20%20%20%20%20%20%20%20%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'url(%23g)'%2F%3E%20%20%20%20%20%20%20%20%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%20font-family%3D'Montserrat%2C%20Arial'%20font-size%3D'42'%3EDUBCORP%3C%2Ftext%3E%20%20%20%20%20%20%3C%2Fsvg%3E",
+      "badge": "OSCAR",
+      "rating": "9.2",
+      "link": ""
+    },
+    {
+      "id": "uev9fqe",
+      "title": "Weathering With You",
+      "sub": "2019",
+      "image": "data:image/svg+xml;utf8,%20%20%20%20%20%20%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20width%3D'600'%20height%3D'900'%3E%20%20%20%20%20%20%20%20%3Cdefs%3E%20%20%20%20%20%20%20%20%20%20%3ClinearGradient%20id%3D'g'%20x1%3D'0'%20y1%3D'0'%20x2%3D'0'%20y2%3D'1'%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'0'%20stop-color%3D'%23220315'%2F%3E%20%20%20%20%20%20%20%20%20%20%20%20%3Cstop%20offset%3D'1'%20stop-color%3D'%23b80241'%2F%3E%20%20%20%20%20%20%20%20%20%20%3C%2FlinearGradient%3E%20%20%20%20%20%20%20%20%3C%2Fdefs%3E%20%20%20%20%20%20%20%20%3Crect%20width%3D'100%25'%20height%3D'100%25'%20fill%3D'url(%23g)'%2F%3E%20%20%20%20%20%20%20%20%3Ctext%20x%3D'50%25'%20y%3D'50%25'%20dominant-baseline%3D'middle'%20text-anchor%3D'middle'%20fill%3D'rgba(255%2C255%2C255%2C0.7)'%20font-family%3D'Montserrat%2C%20Arial'%20font-size%3D'42'%3EDUBCORP%3C%2Ftext%3E%20%20%20%20%20%20%3C%2Fsvg%3E",
+      "badge": "MOVIE",
+      "rating": "8.1",
+      "link": ""
+    }
+  ]
+}
